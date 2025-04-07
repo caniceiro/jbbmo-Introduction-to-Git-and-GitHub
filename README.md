@@ -14,5 +14,3 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
-
-# Changed 2022 to 2023
